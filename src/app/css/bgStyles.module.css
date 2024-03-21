@@ -1,0 +1,16 @@
+.bg {
+    position: relative;
+  
+
+  }
+  .text1{
+    text-align: center;
+    padding: 20px;
+    font-size: 48px;
+    font-family:Roboto;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+   
+  }
+  

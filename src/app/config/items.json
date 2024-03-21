@@ -1,0 +1,75 @@
+[
+    {
+        "id":1,
+        "name":"tp1",
+        "thumbnail":"/item/k18.svg",
+        "text": "Trang phục 1"
+    },
+    {
+        "id":2,
+        "name":"tp1",
+        "thumbnail":"/item/k19.svg",
+        "text": "Trang phục 2"
+    },
+    {
+        "id":3,
+        "name":"tp1",
+        "thumbnail":"/item/k20.svg",
+        "text": "Trang phục 3"
+    },
+    {
+        "id":4,
+        "name":"tp1",
+        "thumbnail":"/item/k21.svg",
+        "text": "Trang phục 4"
+    },
+    {
+        "id":5,
+        "name":"tp1",
+        "thumbnail":"/item/k22.svg",
+        "text": "Trang phục 1"
+    },
+    {
+        "id":6,
+        "name":"tp1",
+        "thumbnail":"/item/k23.svg",
+        "text": "Trang phục 2"
+    },
+    {
+        "id":7,
+        "name":"tp1",
+        "thumbnail":"/item/k24.svg",
+        "text": "Trang phục 3"
+    },
+    {
+        "id":8,
+        "name":"tp1",
+        "thumbnail":"/item/k25.svg",
+        "text": "Trang phục 4"
+
+    },
+    {
+        "id":9,
+        "name":"tp1",
+        "thumbnail":"/item/k26.svg",
+        "text": "Trang phục 1"
+    },
+    {
+        "id":10,
+        "name":"tp1",
+        "thumbnail":"/item/k27.svg",
+        "text": "Trang phục 2"
+    },
+    {
+        "id":11,
+        "name":"tp1",
+        "thumbnail":"/item/k28.svg",
+        "text": "Trang phục 3"
+    },
+    {
+        "id":12,
+        "name":"tp1",
+        "thumbnail":"/item/k29.svg",
+        "text": "Trang phục 4"
+    }
+]
